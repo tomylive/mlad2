@@ -1,4 +1,6 @@
 # Laporan Proyek Machine Learning - Tomy Satria Alasi 
+
+https://github.com/tomylive/mlad2
 ## Domain Proyek
 Domain yang dipilih untuk proyek *machine learning* ini adalah **Pertanian**, dengan judul **Predictive Analytics: Kualitas Apel**  
 
